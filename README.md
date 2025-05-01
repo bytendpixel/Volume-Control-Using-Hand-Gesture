@@ -187,6 +187,7 @@ cam.release()
 ***
 ## 📝 Demo Video
 Here’s a demo of the application in action:
+
 <img alt="Demo Video" src="Demo.gif" />
 
 ## References
