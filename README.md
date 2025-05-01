@@ -186,7 +186,11 @@ cam.release()
 ```
 ***
 ## 📝 Demo Video
- <img alt="Demo Video" src="HGVC_Demo Video.mp4" />
+Here’s a demo of the application in action:
+<img alt="Demo Video" src="Demo.gif" />
+
+## References
+1. [Mediapipe's article on Hand Landmark Detection](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
 
 <div align = "center">
 <h2>📬 Contact</h2>
