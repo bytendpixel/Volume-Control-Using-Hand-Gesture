@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ***
 ### MEDIAPIPE
 <div align="center">
-  <img alt="mediapipeLogo" src="images/mediapipe.png" />
+  <img alt="mediapipeLogo" src="https://chuoling.github.io/mediapipe/images/logo_horizontal_color.png" />
 </div>
 
 > MediaPipe offers open source cross-platform, customizable ML solutions for live and streaming media.
