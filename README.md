@@ -185,6 +185,8 @@ Closing webCam
 cam.release()
 ```
 ***
+## 📝 Demo Video
+ <img alt="Demo Video" src="HGVC_Demo Video.mp4" />
 
 <div align = "center">
 <h2>📬 Contact</h2>
