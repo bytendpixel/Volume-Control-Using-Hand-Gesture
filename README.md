@@ -191,6 +191,6 @@ cam.release()
 
 If you want to contact me, you can reach me through below handles.
 
-<a href="https://x.com/i_rnab"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" width="25">@i_rnab</img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/arnabiswas22/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Arnab Biswas</img></a>
+<a href="https://x.com/i_rnab"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/arnabiswas22/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 </div>
